@@ -38,3 +38,6 @@
 
 # Build cache file
 cache.properties
+
+# Vagrant
+.vagrant/
